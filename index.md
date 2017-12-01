@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+### 360
 
-You can use the [editor on GitHub](https://github.com/jvxalcocer/jvxalcocer.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<script src="//360.vizor.io/scripts/embed.js" data-vizorurl="https://360.vizor.io/embed/v/7rkbb" ></script>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is my 360 project.
 
-### Markdown
+***
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Camera Effects
 
-```markdown
-Syntax highlighted code block
+This is my Camera Effects Project
 
-# Header 1
-## Header 2
-### Header 3
+![jennifer](https://github.com/jvxalcocer/jvxalcocer.github.io/commit/e1fa878b12081d9a8770f049cfda3dee38dbc2e1?raw=true "Optional Title")
 
-- Bulleted
-- List
+***
+Chatbot
 
-1. Numbered
-2. List
+This is my Chatbot project.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jvxalcocer/jvxalcocer.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
