@@ -10,10 +10,10 @@ Camera Effects
 
 This is my Camera Effects Project
 
-![jennifer](https://github.com/jvxalcocer/jvxalcocer.github.io/commit/e1fa878b12081d9a8770f049cfda3dee38dbc2e1?raw=true "Optional Title")
+![Jennifer](https://raw.githubusercontent.com/jvxalcocer/jvxalcocer.github.io/master/Jennifer.PNG?raw=true "Optional Title"***
 
-***
 Chatbot
 
 This is my Chatbot project.
 
+https://raw.githubusercontent.com/jvxalcocer/jvxalcocer.github.io/master/Jennifer.PNG
