@@ -10,7 +10,9 @@ Camera Effects
 
 This is my Camera Effects Project
 
-![Jennifer](https://raw.githubusercontent.com/jvxalcocer/jvxalcocer.github.io/master/Jennifer.PNG?raw=true "Optional Title"***
+![Jennifer](https://raw.githubusercontent.com/jvxalcocer/jvxalcocer.github.io/master/Jennifer.PNG?raw=true "Optional Title"
+
+***
 
 Chatbot
 
